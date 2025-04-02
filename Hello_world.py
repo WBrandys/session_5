@@ -1,3 +1,3 @@
-print("This is training")
+print("This raining")
 print("change")
 print("edited")
